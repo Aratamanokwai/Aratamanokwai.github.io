@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "ratamanokwai Project", "index.html", [
+  [ "Aratamanokwai Project", "index.html", [
     [ "Packages", null, [
       [ "Packages", "namespaces.html", "namespaces" ],
       [ "Package Functions", "namespacemembers.html", [
